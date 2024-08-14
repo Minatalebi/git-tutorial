@@ -15,3 +15,5 @@ console.log(converterNumber);
 const email = "milad.azami@gmail.com";
 const result = email.split("@");
 console.log(result[0]);
+
+console.log("mina tlb");
